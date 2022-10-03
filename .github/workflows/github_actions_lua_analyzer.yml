@@ -6,7 +6,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Luacheck linter
-        uses: lunarmodules/luacheck@v0
+      - uses: nebularg/actions-luacheck@v1
         with:
-        	args: lina_witches_of_the_moon_0_1_0.p8
+          files: ./lina_witches_of_the_moon.p8
+          args: -qo 011
