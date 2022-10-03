@@ -6,9 +6,9 @@ A short but challanging horizontal shmup game made in the PICO-8 engine.
 
 This project is an entry for Krystman's [Basic Shmup Showcase](https://itch.io/jam/basic-shmup) event, which revolves around the [amazing shmup tutorial series](https://www.youtube.com/watch?v=81WM_cjp9fo) for the fantasy console: PICO-8.
 
-[**Play in browser**](https://achie72.github.io/switch-jump/)
+[**Play in browser**](https://achie72.github.io/lina-witches-of-the-moon/)
 [Itch page](https://achie.itch.io/lina-witches-of-the-moon)  
-[Full Moon Game Jam page](https://itch.io/jam/basic-shmup/rate/1687483)  
+[Basic Shmup Showcase page](https://itch.io/jam/basic-shmup/rate/1687483)  
 
 ---
 
