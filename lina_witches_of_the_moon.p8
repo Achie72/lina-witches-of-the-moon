@@ -1,5 +1,5 @@
-pico-8 cartridge // http://www.pico-8.com
-version 38
+pico-8 cartridge // http://www.pico-8.com -- luacheck: ignore
+version 38 -- luacheck: ignore
 __lua__
 player = {
 	x = 8,
